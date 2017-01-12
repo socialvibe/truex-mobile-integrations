@@ -1,5 +1,13 @@
 True[x] Mobile Integrations
 ===========================
 
-README to be written...
+## Android Integrations
 
+Please refer to the [Android Getting Started][android] guide.
+
+## iOS Integrations
+
+Here is the [latest version of the iOS TruexAdRenderer][ios].
+
+[android]: https://github.com/socialvibe/truex-mobile-integrations/wiki/Android-Getting-Started
+[ios]: https://github.com/socialvibe/truex-mobile-integrations/releases/download/v2.0.5/TruexAdRenderer-v2.0.5.zip
