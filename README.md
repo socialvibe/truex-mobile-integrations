@@ -10,4 +10,4 @@ Please refer to the [Android Getting Started][android] guide.
 Here is the [latest version of the iOS TruexAdRenderer][ios].
 
 [android]: https://github.com/socialvibe/truex-mobile-integrations/wiki/Android-Getting-Started
-[ios]: https://github.com/socialvibe/truex-mobile-integrations/releases/download/v3.0.1/TruexAdRenderer-iOS-v3.0.1.zip
+[ios]: https://github.com/socialvibe/truex-mobile-integrations/releases/download/v3.0.2/TruexAdRenderer-iOS-v3.0.2.zip
