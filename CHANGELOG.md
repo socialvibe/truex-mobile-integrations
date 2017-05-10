@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+## v1.0.6
+
+- Swap out Volley http library for OKhttp3
+
 ## v1.0.5
 
 - All event handlers are now called on the UI thread
