@@ -1,6 +1,14 @@
 Change Log
 ==========
 
+## v1.0.7
+
+- bugfix: tracking query params
+- okhttp: do not cancel tracking calls
+- bugfix: add null check for tracking value
+- deps: update okhttp3 and okio
+
+
 ## v1.0.6
 
 - Swap out Volley http library for OKhttp3
