@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+## v1.0.8
+
+- bugfix: fire 'adstarted' only if there are truex ads to display
+
 ## v1.0.7
 
 - bugfix: tracking query params
