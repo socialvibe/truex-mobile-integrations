@@ -1,6 +1,6 @@
 ![true\[X\] logo](media/truex.png)
 
-# TruexAdRenderer tvOS Documentation
+# TruexAdRenderer iOS Documentation
 
 Version 3.2
 
@@ -14,7 +14,7 @@ Version 3.2
     * [Handling Events from TruexAdRenderer](#handling-events-from-truexadrenderer)
         * [Terminal Events](#terminal-events)
     * [Handling Ad Elimination](#handling-ad-elimination)
-* [TruexAdRenderer tvOS API](#truexadrenderer-tvos-api)
+* [TruexAdRenderer iOS API](#truexadrenderer-iOS-api)
     * [Adding `TruexAdRenderer` to Your Project](#adding-truexadrenderer-to-your-project)
     * [`TruexAdRenderer` Methods](#truexadrenderer-methods)
         * [`initWithUrl`](#initwithurl)
@@ -29,12 +29,12 @@ Version 3.2
         * [`onAdError`](#onaderror)
         * [`onNoAdsAvailable`](#onnoadsavailable)
         * [`onAdFreePod`](#onadfreepod)
-        * [`onUserCancelStream`](#onusercancelstream)
     * [`TruexAdRendererDelegate` Methods -- Informative](#truexadrendererdelegate-methods----informative)
         * [`onOptIn`](#onoptin)
         * [`onOptOut`](#onoptout)
         * [`onSkipCardShown`](#onskipcardshown)
         * [`onUserCancel`](#onusercancel)
+        * [`onAdsAvailable`](#onadsavailable)
 
 ## Overview
 
