@@ -44,7 +44,7 @@ With this library, the host player app can defer to the TruexAdRenderer when it 
 
 For simplicity, publisher implemented code will be referred to as "app code" while true[X] implemented code will be referred to as "renderer code".
 
-true[X] will provide an Objective-C `TruexAdRenderer` library that can be loaded into the app. This library will offer a class, `TruexAdRenderer`, that will need to be instantiated, initialized and given certain commands (described below in [TruexAdRenderer Methods](#truexadrenderer-methods)) by the app code. It will also contain a singleton of shared constants, `TruexConstants`.
+true[X] provides an Objective-C `TruexAdRenderer` library that can be loaded into the app. This library will offer a class, `TruexAdRenderer`, that will need to be instantiated, initialized and given certain commands (described below in [TruexAdRenderer Methods](#truexadrenderer-methods)) by the app code. It will also contain a singleton of shared constants, `TruexConstants`.
 
 At this point, the renderer code will take on the responsibility of requesting ads from true[X] server, creating the UI for the true[X] choice card and interactive ad unit, as well as communicating events to the app code when action is required.
 
