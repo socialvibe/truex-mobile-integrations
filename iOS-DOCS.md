@@ -29,6 +29,7 @@ Version 3.2
         * [`onAdError`](#onaderror)
         * [`onNoAdsAvailable`](#onnoadsavailable)
         * [`onAdFreePod`](#onadfreepod)
+        * [`onPopupWebsite`](#onpopupwebsite)
     * [`TruexAdRendererDelegate` Methods -- Informative](#truexadrendererdelegate-methods----informative)
         * [`onOptIn`](#onoptin)
         * [`onOptOut`](#onoptout)
